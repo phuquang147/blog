@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Example Site</title>
-    <link>/categories/</link>
+    <link>https://frontendtips.github.io/blog/categories/</link>
     <description>Recent content in Categories on Example Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://frontendtips.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>syntax</title>
-      <link>/categories/syntax/</link>
+      <link>https://frontendtips.github.io/blog/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/syntax/</guid>
+      <guid>https://frontendtips.github.io/blog/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>/categories/themes/</link>
+      <link>https://frontendtips.github.io/blog/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/themes/</guid>
+      <guid>https://frontendtips.github.io/blog/categories/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>/categories/test/</link>
+      <link>https://frontendtips.github.io/blog/categories/test/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/test/</guid>
+      <guid>https://frontendtips.github.io/blog/categories/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test with whitespaces</title>
-      <link>/categories/test-with-whitespaces/</link>
+      <link>https://frontendtips.github.io/blog/categories/test-with-whitespaces/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/test-with-whitespaces/</guid>
+      <guid>https://frontendtips.github.io/blog/categories/test-with-whitespaces/</guid>
       <description></description>
     </item>
     
